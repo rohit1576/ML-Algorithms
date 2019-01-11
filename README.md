@@ -15,10 +15,9 @@ Run `python '.\Linear Regression.py'`
 Note: This code may not work on Jupyter Notebook.
 
 
-<h4>
   Linear Regression on Anscombe data set:
- </h4>
- <br>
+  
+  
   Run `python anscombe.py`
 
 ![alt text](https://github.com/rohit1576/Linear-Regression/blob/master/anscombe.jpeg)
