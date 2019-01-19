@@ -13,3 +13,13 @@ Run `python '.\Linear Regression.py'`
 <br>
 <br>
 Note: This code may not work on Jupyter Notebook.
+
+
+  Linear Regression on Anscombe data set:
+  
+  
+  Run `python anscombe.py`
+
+![alt text](https://github.com/rohit1576/Linear-Regression/blob/master/anscombe.jpeg)
+
+This shows that the regressor predicts same line for 4 different data sets, so data scientists should first analyze the data before applying any Machine Learning Model.
