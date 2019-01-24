@@ -7,7 +7,7 @@ y = []
 
 
 def abline(slope, intercept):
-    Xi = np.array([0,20])
+    Xi = np.array([-20,20])
     plt.plot(Xi, Xi*slope + intercept, color = "black")
     plt.pause(0.001)
     plt.draw()
@@ -20,6 +20,7 @@ def gradient_descent():
     b = 0
     for i in range(0,100):
         plt.clf()
+        plt.axis([-20,20,-20,20])
         plt.scatter(X,y,color="red")
         yguess = []
         for j in range(0,n):
