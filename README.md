@@ -23,3 +23,7 @@ Note: This code may not work on Jupyter Notebook.
 ![alt text](https://github.com/rohit1576/Linear-Regression/blob/master/anscombe.jpeg)
 
 This shows that the regressor predicts same line for 4 different data sets, so data scientists should first analyze the data before applying any Machine Learning Model.
+
+Logistic Regression from scratch has been implemented in python.
+<br>
+The Iris dataset has been used.
