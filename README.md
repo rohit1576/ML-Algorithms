@@ -26,4 +26,6 @@ This shows that the regressor predicts same line for 4 different data sets, so d
 
 Logistic Regression from scratch has been implemented in python.
 <br>
+<br>
 The Iris dataset has been used.
+![alt text](https://github.com/rohit1576/Linear-Regression/blob/master/logistic.png)
